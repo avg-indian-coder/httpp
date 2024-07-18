@@ -1,0 +1,4 @@
+/home/capemox/projects/codecrafters-http-server-cpp/CMakeFiles/http-server-starter-cpp.dir
+/home/capemox/projects/codecrafters-http-server-cpp/CMakeFiles/server.dir
+/home/capemox/projects/codecrafters-http-server-cpp/CMakeFiles/edit_cache.dir
+/home/capemox/projects/codecrafters-http-server-cpp/CMakeFiles/rebuild_cache.dir
